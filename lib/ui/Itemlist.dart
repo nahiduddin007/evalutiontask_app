@@ -39,7 +39,7 @@ class EachList extends StatelessWidget {
         return Card(
           child: ListTile(
             title: Text("Item $index"),
-            subtitle: Text('price 500'),
+            subtitle: Text('200'),
             leading: Icon(
               Icons.account_balance,
               color: Colors.green,
